@@ -37,15 +37,6 @@
 
 ---
 
-# 🌊 Case Study
-
-<div align="center">
-
-## 💧 Water Distribution Monitoring System
-
-</div>
-
----
 
 # 📁 Repository Structure
 
