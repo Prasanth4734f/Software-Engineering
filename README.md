@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,25:06B6D4,50:00C9A7,75:38BDF8,100:7C3AED&text=Software%20Engineering&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,25:06B6D4,50:00C9A7,75:38BDF8,100:7C3AED&text=Software%20Engineering&fontSize=55&fontColor=301934&fontAlignY=35&animation=twinkling"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1200&color=C11C84&center=true&vCenter=true&width=900&lines=Assessment+Tools+Repository;Water+Distribution+Monitoring+System;Software+Engineering+Laboratory;Designed+by+M+Prasanth+Kumar+Reddy"/>
 
