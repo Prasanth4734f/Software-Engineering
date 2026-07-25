@@ -20,9 +20,9 @@
 
 <div align="center">
 
-| 👤 Student Name | 🆔 Register Number | 📚 Subject |
-|:---------------:|:------------------:|:----------:|
-| **M Prasanth Kumar Reddy** | **192325053** | **CSA1012 - Software Engineering** |
+| 👤 Student Name | 🆔 Register Number | 📚 Subject |  Faculty |
+|:---------------:|:------------------:|:----------:|:----------:|
+| **M Prasanth Kumar Reddy** | **192325053** | **CSA1012 - Software Engineering** |**Dr. Anita Davamani K**|
 
 </div>
 
