@@ -22,7 +22,7 @@
 
 | 👤 Student Name | 🆔 Register Number | 📚 Subject |
 |:---------------:|:------------------:|:----------:|
-| **M Prasanth Kumar Reddy** | **192325053** | **Software Engineering** |
+| **M Prasanth Kumar Reddy** | **192325053** | **CSA1012 - Software Engineering** |
 
 </div>
 
